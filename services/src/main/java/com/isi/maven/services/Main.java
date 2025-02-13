@@ -2,6 +2,6 @@ package com.isi.maven.services;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hell");
+        System.out.println("Hello votre commande");
     }
 }
